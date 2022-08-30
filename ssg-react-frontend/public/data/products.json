@@ -1,0 +1,225 @@
+[
+  {
+    "name": "sprout",
+    "products": [
+      {
+        "link": "https://sproutcoffeeroasters.art/collections/coffee/products/caixa-de-fruta",
+        "title": "Caixa De Fruta",
+        "tastingNotes": [
+          "Almond",
+          "Cocoa Nibs",
+          "Apple"
+        ],
+        "producer": "Cocatrel Direct Trade",
+        "location": "Carmo da Cachoeira  Minas  Brazil",
+        "process": "Natural",
+        "variety": "Cactuai",
+        "elevation": "900-1100",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0379/0074/6797/products/Sprout_Bag_Mockup_Brasil_66b6c534-1f3f-4a32-a1a2-3b29c8d1eb2f_467x700.png?v=1647331401"
+      },
+      {
+        "link": "https://sproutcoffeeroasters.art/collections/coffee/products/diego-bermudez",
+        "title": "Diego Bermudez",
+        "tastingNotes": [
+          "Peach",
+          "Yoghurt",
+          "Rubarb"
+        ],
+        "producer": "Diego  Samuel  Bermudez",
+        "location": "Cauca  Piendamó  Tunía  Vereda Los Arados",
+        "process": "Natural",
+        "variety": "Castillo",
+        "elevation": "1930 MASL",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0379/0074/6797/products/Sprout_Bag_Mockup_OuterSpace_467x700.png?v=1653985686"
+      },
+      {
+        "link": "https://sproutcoffeeroasters.art/collections/coffee/products/santa-fe",
+        "title": "Santa Fe",
+        "tastingNotes": [
+          "Dark Chocolate",
+          "Apricot",
+          "Butterscotch"
+        ],
+        "producer": "Cooperativa  De Servicios Multiples  Aprocassi",
+        "location": "Santa Fe  San Ignacio  Peru",
+        "process": "Washed",
+        "variety": "Caturra - Typica -  Bourbon",
+        "elevation": "1750 - 1820 MASL",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0379/0074/6797/products/Sprout_Bag_Mockup_Peru_V3_467x700.png?v=1653899005"
+      },
+      {
+        "link": "https://sproutcoffeeroasters.art/collections/coffee/products/buki",
+        "title": "Buki",
+        "tastingNotes": [
+          "Chocolate",
+          "Pineapple",
+          "Peach"
+        ],
+        "producer": "Various smallholder farmers",
+        "location": "Uraga, Oromia, Ethopia",
+        "process": "Natural",
+        "variety": "Heirloom varieties",
+        "elevation": "2200-2250MASL",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0379/0074/6797/products/Sprout_Bag_Mockup_Ethiopia_2_c31e9222-e96c-4d47-ae21-461674e713cc_467x700.png?v=1656934850"
+      },
+      {
+        "link": "https://sproutcoffeeroasters.art/collections/coffee/products/pantan",
+        "title": "Pantan",
+        "tastingNotes": [
+          "Raisin",
+          "Lemongrass",
+          "Spices"
+        ],
+        "producer": "Various smallholder farmers",
+        "location": "Pantan Musara, Pegasing, Sumatra",
+        "process": "Natural",
+        "variety": "Gayo 1, Gayo 2, Catimor, Abyssinia",
+        "elevation": "1550MASL",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0379/0074/6797/products/Sprout_Bag_Mockup_Indonesia_a4be7d14-ad04-4970-b84a-e53404fbb5d5_467x700.png?v=1656932490"
+      },
+      {
+        "link": "https://sproutcoffeeroasters.art/collections/coffee/products/copy-of-santa-fe",
+        "title": "Rioja",
+        "tastingNotes": [
+          "Green Apple",
+          "Orange",
+          "Toffee"
+        ],
+        "producer": "Elver Rioja Tarillo",
+        "location": "Cajamarca, Peru",
+        "process": "Washed",
+        "variety": "Caturra - Typica -  Bourbon",
+        "elevation": "1900 MASL",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0379/0074/6797/products/Sprout_Bag_Mockup_Peru_V3_f6967053-b2b2-404d-9b29-855702205354_467x700.png?v=1653904134"
+      },
+      {
+        "link": "https://sproutcoffeeroasters.art/collections/coffee/products/aster",
+        "title": "Aster",
+        "tastingNotes": [
+          "Melon",
+          "Grape",
+          "Milk Choc"
+        ],
+        "producer": "Aster Demeke",
+        "location": "Dumerso, Yirgacheffe, Ethopia",
+        "process": "Natural",
+        "variety": "74110, 74112",
+        "elevation": "1800-2200 MASL",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0379/0074/6797/products/Sprout_Bag_Mockup_Ethiopia_2_819444b8-9ea2-4205-95a2-c88d18d59547_467x700.png?v=1650878488"
+      },
+      {
+        "link": "https://sproutcoffeeroasters.art/collections/coffee/products/copy-of-tumbaga-decaf",
+        "title": "Sol de Montana Decaf",
+        "tastingNotes": [
+          "Apricot",
+          "Lemon",
+          "White Chocolate"
+        ],
+        "producer": "Various",
+        "location": "Chaparral - Tolima",
+        "process": "Sugar Cane Decaf",
+        "variety": "Castillo, Caturra",
+        "elevation": "1700-2000MASL",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0379/0074/6797/products/Sprout_Bag_Mockup_Columbia_925cfb77-7fb9-4864-991b-b7310d2ef15d_467x700.png?v=1658750753"
+      }
+    ]
+  },
+  {
+    "name": "lucifer",
+    "products": [
+      {
+        "link": "https://www.lucifercoffeeroasters.com/product/costa-rica-central-valley-hacienda-sonora-natural-espresso/",
+        "title": "Costa Rica, Central Valley, Hacienda Sonora, NATURAL ESPRESSO",
+        "tastingNotes": [
+          "Pure chocolate",
+          "Pruns",
+          "Cacao Nibs"
+        ],
+        "location": "Costa Rica, Central Valley, Hacienda Sonora",
+        "process": "Natural",
+        "variety": "Caturra",
+        "imageUrl": "https://www.lucifercoffeeroasters.com/wp-content/uploads/2022/08/costa-rica-hacienda-sonora-espresso-600x555.png"
+      },
+      {
+        "link": "https://www.lucifercoffeeroasters.com/product/colombia-finca-el-paraiso-gigante-huila-washed-espresso/",
+        "title": "Colombia, Finca El Paraïso, Gigante, Huila, WASHED ESPRESSO",
+        "tastingNotes": [
+          "Grape",
+          "Almond",
+          "Apple"
+        ],
+        "location": "Colombia, Finca El Paraïso, Gigante, Huila",
+        "process": "Washed",
+        "variety": "Castillo",
+        "imageUrl": "https://www.lucifercoffeeroasters.com/wp-content/uploads/2022/06/colombia-finca-el-paraiso-gigante-huila-espresso-600x555.png"
+      },
+      {
+        "link": "https://www.lucifercoffeeroasters.com/product/brazil-intense-blend/",
+        "title": "Intense Blend espresso",
+        "tastingNotes": [
+          "Cacao",
+          "Dark Chocolate",
+          "Walnut",
+          "heavy body",
+          "low acidity"
+        ],
+        "location": "Brazil",
+        "process": "Natural, Pulped Natural",
+        "variety": "Yellow Bourbon and others",
+        "imageUrl": "https://www.lucifercoffeeroasters.com/wp-content/uploads/2020/12/Intens-Blend-Espresso.png"
+      },
+      {
+        "link": "https://www.lucifercoffeeroasters.com/product/eindje/",
+        "title": "Eindje Blend espresso",
+        "tastingNotes": [
+          "Full body",
+          "Chocolate",
+          "Nutty",
+          "Light Acidity"
+        ],
+        "process": "Natural & Washed",
+        "variety": "Yellow Bourbon, Red Bourbon & Heirloom varieties",
+        "imageUrl": "https://www.lucifercoffeeroasters.com/wp-content/uploads/2020/03/Speciality-coffee-Eindje-Blend-espresso.png"
+      },
+      {
+        "link": "https://www.lucifercoffeeroasters.com/product/brazil-utz/",
+        "title": "Smooth Blend espresso",
+        "tastingNotes": [
+          "Chocolate",
+          "Almond",
+          "full body",
+          "medium-low acidity"
+        ],
+        "location": "Brazil",
+        "process": "Natural, Pulped Natural",
+        "variety": "Yellow Bourbon & Red Bourbon",
+        "imageUrl": "https://www.lucifercoffeeroasters.com/wp-content/uploads/2020/03/Speciality-coffee-smooth-Blend-Espresso.png"
+      },
+      {
+        "link": "https://www.lucifercoffeeroasters.com/product/costa-rica-central-valley-hacienda-sonora-natural-filter/",
+        "title": "COSTA RICA, Central Valley, Hacienda Sonora NATURAL FILTER",
+        "tastingNotes": [
+          "Chocolate",
+          "Cinnamon",
+          "Brown Sugar"
+        ],
+        "location": "COSTA RICA, Central Valley, Hacienda Sonora",
+        "process": "Natural",
+        "variety": "Caturra",
+        "imageUrl": "https://www.lucifercoffeeroasters.com/wp-content/uploads/2022/08/costa-rica-hacienda-sonora-filter-600x555.png"
+      },
+      {
+        "link": "https://www.lucifercoffeeroasters.com/product/colombia-finca-el-paraiso-gigante-huila-washed-filter/",
+        "title": "Colombia, Finca El Paraïso, Gigante Huila, WASHED FILTER",
+        "tastingNotes": [
+          "Papaya",
+          "Red Apple",
+          "Juicy"
+        ],
+        "process": "Washed",
+        "variety": "Castillo",
+        "imageUrl": "https://www.lucifercoffeeroasters.com/wp-content/uploads/2022/06/colombia-finca-el-paraiso-gigante-huila-filter-600x555.png"
+      }
+    ]
+  }
+]
