@@ -21,6 +21,23 @@ export class LuciferScraper implements Scraper {
     return splitNotes.map(it => it.trim());
   }
 
+  private parseTitle(title: string): string {
+    if (!title) {
+      console.error('no title found for lucifer product');
+      return 'No title'
+    }
+
+    let name = title.split(',')[0].trim();
+
+    if (title.toLowerCase().includes('filter') && !name.toLowerCase().includes('filter')) {
+      name += ' filter';
+    } else if (title.toLowerCase().includes('espresso') && !name.toLowerCase().includes('espresso')) {
+      name += ' espresso'
+    }
+
+    return name;
+  }
+
   public async scrape(browser: Browser): Promise<Array<CoffeeProduct>> {
     const page = await browser.newPage();
     const baseUrl = 'https://www.lucifercoffeeroasters.com';
@@ -55,7 +72,7 @@ export class LuciferScraper implements Scraper {
 
       return {
         link: link,
-        title: await this.getText('h1.product_title', newPage),
+        title: this.parseTitle(await this.getText('h1.product_title', newPage)),
         tastingNotes: this.parseTastingNotes(details.find(it => it.title === 'taste' || it.title === 'flavour')?.value),
         producer: undefined,
         location: details.find(it => it.title === 'origin')?.value,

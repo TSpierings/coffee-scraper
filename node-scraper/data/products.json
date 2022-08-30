@@ -129,7 +129,7 @@
     "products": [
       {
         "link": "https://www.lucifercoffeeroasters.com/product/costa-rica-central-valley-hacienda-sonora-natural-espresso/",
-        "title": "Costa Rica, Central Valley, Hacienda Sonora, NATURAL ESPRESSO",
+        "title": "Costa Rica espresso",
         "tastingNotes": [
           "Pure chocolate",
           "Pruns",
@@ -142,7 +142,7 @@
       },
       {
         "link": "https://www.lucifercoffeeroasters.com/product/colombia-finca-el-paraiso-gigante-huila-washed-espresso/",
-        "title": "Colombia, Finca El Paraïso, Gigante, Huila, WASHED ESPRESSO",
+        "title": "Colombia espresso",
         "tastingNotes": [
           "Grape",
           "Almond",
@@ -197,7 +197,7 @@
       },
       {
         "link": "https://www.lucifercoffeeroasters.com/product/costa-rica-central-valley-hacienda-sonora-natural-filter/",
-        "title": "COSTA RICA, Central Valley, Hacienda Sonora NATURAL FILTER",
+        "title": "COSTA RICA filter",
         "tastingNotes": [
           "Chocolate",
           "Cinnamon",
@@ -210,7 +210,7 @@
       },
       {
         "link": "https://www.lucifercoffeeroasters.com/product/colombia-finca-el-paraiso-gigante-huila-washed-filter/",
-        "title": "Colombia, Finca El Paraïso, Gigante Huila, WASHED FILTER",
+        "title": "Colombia filter",
         "tastingNotes": [
           "Papaya",
           "Red Apple",
