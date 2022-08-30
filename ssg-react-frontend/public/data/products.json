@@ -221,5 +221,153 @@
         "imageUrl": "https://www.lucifercoffeeroasters.com/wp-content/uploads/2022/06/colombia-finca-el-paraiso-gigante-huila-filter-600x555.png"
       }
     ]
+  },
+  {
+    "name": "beanbrothers",
+    "products": [
+      {
+        "link": "https://www.beanbrothers.nl/product/classic-brazil/",
+        "title": "Classic Brazil",
+        "tastingNotes": [
+          "milk chocolate",
+          "almonds"
+        ],
+        "producer": "Serra Negra",
+        "location": "Brazil, Minas Gerais",
+        "process": "Natural",
+        "elevation": "1,000 m",
+        "imageUrl": "https://www.beanbrothers.nl/wp-content/uploads/2020/05/BB_classic_koffiezak-247x296.png",
+        "imageName": "BB_classic_koffiezak-247x296.png"
+      },
+      {
+        "link": "https://www.beanbrothers.nl/product/elmer-aristides/",
+        "title": "Elmer & Aristides",
+        "tastingNotes": [
+          "Caramel",
+          "marzipan",
+          "almonds",
+          "mandarin",
+          "milk chocolate"
+        ],
+        "producer": "Finca el Mojon & La Penas and Las Lomas",
+        "location": "Honduras, Mercedes, Ocotepeque",
+        "process": "Washed",
+        "elevation": "1,600 - 1.850 m",
+        "imageUrl": "https://www.beanbrothers.nl/wp-content/uploads/2020/10/BB_koffzak_elmer-1-247x296.png",
+        "imageName": "BB_koffzak_elmer-1-247x296.png"
+      },
+      {
+        "link": "https://www.beanbrothers.nl/product/nafuna/",
+        "title": "Bugisu",
+        "tastingNotes": [
+          "Dark chocolate",
+          "salty caramel"
+        ],
+        "producer": "Betty Jesca",
+        "location": "Uganda, Mount Elgon",
+        "process": "Washed",
+        "elevation": "1,500 m",
+        "imageUrl": "https://www.beanbrothers.nl/wp-content/uploads/2020/05/BB_bugisu_koffiezak-247x296.png",
+        "imageName": "BB_bugisu_koffiezak-247x296.png"
+      },
+      {
+        "link": "https://www.beanbrothers.nl/product/bruno/",
+        "title": "Bruno",
+        "tastingNotes": [
+          "chocolate",
+          "pecan",
+          "red fruit"
+        ],
+        "producer": "Fazenda Esperança",
+        "location": "Brazil, Cerrado, Minas Gerais",
+        "process": "Natural",
+        "elevation": "900 m",
+        "imageUrl": "https://www.beanbrothers.nl/wp-content/uploads/2020/03/BB_Bruno_koffiezak-247x296.png",
+        "imageName": "BB_Bruno_koffiezak-247x296.png"
+      },
+      {
+        "link": "https://www.beanbrothers.nl/product/brotherhood/",
+        "title": "Brotherhood",
+        "tastingNotes": [
+          "red fruit",
+          "milk chocolate",
+          "sugarcane"
+        ],
+        "producer": "Fazenda Esperança (Bruno) - Santa Teresa de Mogoton (Silvio) - Finca Cerro Bueno, Finca Bethel, Finca El Arrozal (Omar)",
+        "location": "Nicaragua - Brazil - Honduras, undefined",
+        "process": "Natural",
+        "elevation": "1,250 – 1,675 m",
+        "imageUrl": "https://www.beanbrothers.nl/wp-content/uploads/2020/03/BB_Brotherhood_koffiezak-247x296.png",
+        "imageName": "BB_Brotherhood_koffiezak-247x296.png"
+      },
+      {
+        "link": "https://www.beanbrothers.nl/product/mauricio-salaverria/",
+        "title": "Mauricio Salaverria",
+        "tastingNotes": [
+          "karamel",
+          "rood fruit",
+          "chocolade"
+        ],
+        "producer": "FINCA HIMALAYA",
+        "location": "EL Salvador, ATACO, APANECA",
+        "process": "Natural",
+        "elevation": "1,550 m",
+        "imageUrl": "https://www.beanbrothers.nl/wp-content/uploads/2021/02/BB_mauricio_koffiezak-247x296.png",
+        "imageName": "BB_mauricio_koffiezak-247x296.png"
+      },
+      {
+        "link": "https://www.beanbrothers.nl/product/classic-brazil-filter/",
+        "title": "Classic Brazil filter",
+        "tastingNotes": [
+          "milk chocolate",
+          "almonds"
+        ],
+        "producer": "Serra Negra",
+        "location": "Brazil, Minas Gerais",
+        "process": "Natural",
+        "elevation": "1,000 m",
+        "imageUrl": "https://www.beanbrothers.nl/wp-content/uploads/2020/05/BB_classic_koffiezak-247x296.png",
+        "imageName": "BB_classic_koffiezak-247x296.png"
+      },
+      {
+        "link": "https://www.beanbrothers.nl/product/itallion-stallion/",
+        "title": "Italian Stallion",
+        "location": "Brazilie, Uganda, Thailand, Cerrodo, Mont Elgon, Doi Saket",
+        "process": "WASED",
+        "elevation": "1,250/2100 m",
+        "imageUrl": "https://www.beanbrothers.nl/wp-content/uploads/2022/05/BB_arjans_koffiezak-247x296.png",
+        "imageName": "BB_arjans_koffiezak-247x296.png"
+      },
+      {
+        "link": "https://www.beanbrothers.nl/product/mauricio-salaverria-filter/",
+        "title": "Mauricio Salaverria FILTER",
+        "tastingNotes": [
+          "karamel",
+          "rood fruit",
+          "chocolade"
+        ],
+        "producer": "FINCA HIMALAYA",
+        "location": "EL Salvador, ATACO, APANECA",
+        "process": "Natural",
+        "elevation": "1,550 m",
+        "imageUrl": "https://www.beanbrothers.nl/wp-content/uploads/2021/02/BB_mauricio_koffiezak-247x296.png",
+        "imageName": "BB_mauricio_koffiezak-247x296.png"
+      },
+      {
+        "link": "https://www.beanbrothers.nl/product/arjans-favourite/",
+        "title": "Arjan’s Favoriet",
+        "tastingNotes": [
+          "Zoet",
+          "granny smit",
+          "zachte medium body."
+        ],
+        "producer": "LA VICTORIA",
+        "location": "COLOMBIA, HUILA, SANTA MARIA",
+        "process": "WASED",
+        "elevation": "1,750/2100 m",
+        "imageUrl": "https://www.beanbrothers.nl/wp-content/uploads/2022/05/BB_arjans_koffiezak-247x296.png",
+        "imageName": "BB_arjans_koffiezak-247x296.png"
+      }
+    ]
   }
 ]

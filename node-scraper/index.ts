@@ -3,10 +3,12 @@ import { writeFileSync } from 'fs';
 import { Scraper } from "./scrapers/scraper";
 import { SproutScraper } from "./scrapers/sprout.mjs";
 import { LuciferScraper } from './scrapers/lucifer.mjs';
+import { BeanBrothersScraper } from './scrapers/beanbrothers.mjs';
 
 const scrapers: Array<Scraper> = [
   new SproutScraper(),
-  new LuciferScraper()
+  new LuciferScraper(),
+  new BeanBrothersScraper()
 ];
 
 async function crawl() {
