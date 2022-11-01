@@ -7,12 +7,8 @@ export function CoffeeCard(props: { product: CoffeeProduct }) {
 
   return (
     <a key={product.link} href={product.link} className={styles.card}>
-      {product.imageName ?
-        /* eslint-disable-next-line @next/next/no-img-element */
-        <img src={'/data/images/' + product.imageName} alt={product.title} /> :
-        /* eslint-disable-next-line @next/next/no-img-element */
-        <img src={product.imageUrl} alt={product.title} />
-      }
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img src={product.imageUrl} alt={product.title} referrerPolicy="no-referrer"/>
       <div>
         <h2>{product.title}</h2>
         <p>{product.tastingNotes?.join(', ')}</p>

@@ -3,3 +3,5 @@
 /node-scraper/dist/
 /ssg-react-frontend/public/data/images/
 /ssg-react-frontend/.firebase/hosting.b3V0.cache
+/node-scraper/crawl-log.json
+/node-scraper/logs/

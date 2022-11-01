@@ -21,8 +21,6 @@ export class SproutScraper implements Scraper {
     const page = await browser.newPage();
     const baseUrl = 'https://sproutcoffeeroasters.art';
 
-    page.setDefaultNavigationTimeout(30000);
-
     await page.goto(baseUrl + '/collections/coffee');
 
     const productLinks = await Promise.all(

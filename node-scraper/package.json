@@ -1,12 +1,19 @@
 {
+  "scripts": {
+    "build": "npx tsc",
+    "start": "npx tsc & node dist/index.js | bunyan -o short"
+  },
   "dependencies": {
+    "@types/bunyan": "^1.8.8",
     "@types/puppeteer": "^5.4.6",
+    "bunyan": "^1.8.15",
     "image-downloader": "^4.3.0",
     "puppeteer": "^17.0.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.35.1",
     "@typescript-eslint/parser": "^5.35.1",
+    "bunyan-debug-stream": "^3.0.2",
     "eslint": "^8.23.0",
     "typescript": "^4.8.2"
   },

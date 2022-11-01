@@ -8,7 +8,6 @@ export class BeanBrothersScraper implements Scraper {
   public name = 'beanbrothers';
   private baseUrl = 'https://www.beanbrothers.nl';
   private overviewUrl = '/shop/';
-  private hotlink = true;
 
   private parseTastingNotes(notes: string): Array<string> {
     if (!notes) {
@@ -32,7 +31,7 @@ export class BeanBrothersScraper implements Scraper {
 
       const link = await element.$eval('div.box-image div.image-none a', it => it.getAttribute('href'));
       const productImageUrl = await element.$eval('div.box-image img', it => it.getAttribute('data-src'));
-      const result = (config.downloadImages || this.hotlink) ? await download.image({ url: productImageUrl, dest: '../../data/images' }) : undefined;
+      const result = config.downloadImages ? await download.image({ url: productImageUrl, dest: '../../data/images' }) : undefined;
       const tastingNotes = await element.$eval('em', el => el.textContent).catch(() => undefined);
 
       const details = await Promise.all((await element.$$('table tr')).map(async row => {
@@ -41,8 +40,6 @@ export class BeanBrothersScraper implements Scraper {
           value: await row.$eval('td.links', it => it.textContent)
         }
       }));
-
-      console.log(result);
 
       return {
         link: link,
